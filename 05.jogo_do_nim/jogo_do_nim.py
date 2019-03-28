@@ -111,4 +111,3 @@ if tipo == '1':
 else:
     # Se o usuário escolher 2, chama a função campeonato() para jogar um campeonato
     campeonato()
-    
