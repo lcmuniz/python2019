@@ -84,30 +84,63 @@ def partida():
             # Se n é igual a zero, acabou o jogo
             if vez == 'usuario':
                 print('Fim do jogo! O computador ganhou!')
+                print()
+                return 'computador'
             else:
                 print('Fim do jogo! Você ganhou!')
+                print()
+                return 'usuario'
         print()
 
-# Executa um campeonato (três partidas)
+
+# Executa um campeonato
 def campeonato():
-    # Esta função ainda não foi feita
-    print('Ainda não fizemos')
 
+    partidas_usuario = 0
+    partidas_computador = 0
 
-# Início do jogo, menu inicial
-print('Bem-vindo ao jogo do NIM! Escolha:')
-print()
-print('1 - para jogar uma partida isolada')
-print('2 - para jogar um campeonato')
-print()
-tipo = input('> ')
-
-if tipo == '1':
-    # Se o usuário escolher 1, chama a função partida() para executar uma partida
+    print('Você escolheu um campeonato!')
     print()
-    print('Você escolheu uma partida isolada!')
+    rodada = 1
+
+    num_partidas = int(input('Quantas partidas você quer jogar? '))
     print()
-    partida()
-else:
-    # Se o usuário escolher 2, chama a função campeonato() para jogar um campeonato
-    campeonato()
+    while rodada <= num_partidas:
+        print('***** Rodada {} *****'.format(rodada))
+        print()
+        vencedor = partida()
+
+        if vencedor == 'usuario':
+            partidas_usuario = partidas_usuario + 1
+        else:
+            partidas_computador = partidas_computador + 1
+
+        rodada = rodada + 1
+
+    print('***** Final do campeonato! *****')
+
+    print('Placar: Você {} x {} Computador'.format(partidas_usuario, partidas_computador))
+
+
+def main():
+    # Início do jogo, menu inicial
+    print('Bem-vindo ao jogo do NIM! Escolha:')
+    print()
+    print('1 - para jogar uma partida isolada')
+    print('2 - para jogar um campeonato')
+    print()
+    tipo = input('> ')
+
+    if tipo == '1':
+        # Se o usuário escolher 1, chama a função partida() para executar uma partida
+        print()
+        print('Você escolheu uma partida isolada!')
+        print()
+        partida()
+    else:
+        # Se o usuário escolher 2, chama a função campeonato() para jogar um campeonato
+        campeonato()
+
+
+# inicia a execucao do programa
+main()
