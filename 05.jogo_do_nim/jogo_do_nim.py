@@ -1,3 +1,5 @@
+import random
+
 # Pede ao usuário o número de peças que ele quer retirar e retorna este número de peças
 def usuario_escolhe_jogada(n, m):
     while True:
@@ -37,14 +39,24 @@ def partida():
 
     # Testa quem vai começar
     if n % (m + 1) == 0:
-        # Se n é múltiplo de m+1, a vez é do jogador
-        print('Você começa!')
-        vez = 'usuario'
+       # Se n é múltiplo de m+1, a vez é do jogador
+       print('Você começa!')
+       vez = 'usuario'
     else:
-        # Se n não é múltiplo de m+1, a vez é do computador
-        print('O computador começa!')
-        vez = 'computador'
+       # Se n não é múltiplo de m+1, a vez é do computador
+       print('O computador começa!')
+       vez = 'computador'
     print()
+
+    # gera um número aleatório para decidir quem começa a partida
+    # i = random.randint(1,2)
+    # if i == 1:
+    # print('O computador começa!')
+    #     vez = 'computador'
+    # else:
+    #     print('Você começa!')
+    #     vez = 'usuario'
+    # print()
 
     # Enquanto n (número de peças no tabuleiro) for maior que zero, continua jogando
     while n > 0:
@@ -84,30 +96,63 @@ def partida():
             # Se n é igual a zero, acabou o jogo
             if vez == 'usuario':
                 print('Fim do jogo! O computador ganhou!')
+                print()
+                return 'computador'
             else:
                 print('Fim do jogo! Você ganhou!')
+                print()
+                return 'usuario'
         print()
 
-# Executa um campeonato (três partidas)
+
+# Executa um campeonato
 def campeonato():
-    # Esta função ainda não foi feita
-    print('Ainda não fizemos')
 
+    partidas_usuario = 0
+    partidas_computador = 0
 
-# Início do jogo, menu inicial
-print('Bem-vindo ao jogo do NIM! Escolha:')
-print()
-print('1 - para jogar uma partida isolada')
-print('2 - para jogar um campeonato')
-print()
-tipo = input('> ')
-
-if tipo == '1':
-    # Se o usuário escolher 1, chama a função partida() para executar uma partida
+    print('Você escolheu um campeonato!')
     print()
-    print('Você escolheu uma partida isolada!')
+    rodada = 1
+
+    num_partidas = int(input('Quantas partidas você quer jogar? '))
     print()
-    partida()
-else:
-    # Se o usuário escolher 2, chama a função campeonato() para jogar um campeonato
-    campeonato()
+    while rodada <= num_partidas:
+        print('***** Rodada {} *****'.format(rodada))
+        print()
+        vencedor = partida()
+
+        if vencedor == 'usuario':
+            partidas_usuario = partidas_usuario + 1
+        else:
+            partidas_computador = partidas_computador + 1
+
+        rodada = rodada + 1
+
+    print('***** Final do campeonato! *****')
+
+    print('Placar: Você {} x {} Computador'.format(partidas_usuario, partidas_computador))
+
+
+def main():
+    # Início do jogo, menu inicial
+    print('Bem-vindo ao jogo do NIM! Escolha:')
+    print()
+    print('1 - para jogar uma partida isolada')
+    print('2 - para jogar um campeonato')
+    print()
+    tipo = input('> ')
+
+    if tipo == '1':
+        # Se o usuário escolher 1, chama a função partida() para executar uma partida
+        print()
+        print('Você escolheu uma partida isolada!')
+        print()
+        partida()
+    else:
+        # Se o usuário escolher 2, chama a função campeonato() para jogar um campeonato
+        campeonato()
+
+
+# inicia a execucao do programa
+main()
