@@ -24,6 +24,7 @@ while num_digitos > 0:
     num_digitos = num_digitos - 1
     if anterior == digito:
         adjacente = True
+        break
     anterior = digito
 
 if adjacente:
