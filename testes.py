@@ -1,11 +1,18 @@
-n = int(input('Digite o valor de n: '))
+import random
 
-i = 0
+numeros = []
 
-while i <= n:
+for i in range(11):
+    n = random.randint(1, 101)
+    numeros.append(n)
 
-    print(i+1)
+maior = max(numeros)
+menor = min(numeros)
 
-    i = i + 2
+ordenada = numeros.copy()
+ordenada.sort()
 
-print(i+1)
+print("Na lista {}, ".format(numeros))
+print("o menor número é {} e".format(menor))
+print("o maior número é {}.".format(maior))
+print("A lista ordenada é {}.".format(ordenada))

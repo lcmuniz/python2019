@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="877593d4-9aa2-4cc2-a8fb-9e1a6ae677b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/07.listas/inverte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.listas/maior_elemento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.listas/remove_repetidos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.listas/soma_elementos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
@@ -55,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="46" column="11" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="46" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06.jogos/pedra_papel_tesoura.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -79,11 +74,65 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testes.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.listas/inverte.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.listas/maior_elemento.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.listas/soma_elementos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.listas/remove_repetidos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -103,10 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.sequencial/ola_mundo.py" />
-        <option value="$PROJECT_DIR$/01.sequencial/seu_nome.py" />
-        <option value="$PROJECT_DIR$/01.sequencial/media.py" />
-        <option value="$PROJECT_DIR$/01.sequencial/area_circulo.ṕy.py" />
         <option value="$PROJECT_DIR$/01.sequencial/area_circulo.py" />
         <option value="$PROJECT_DIR$/01.sequencial/salario.py" />
         <option value="$PROJECT_DIR$/02.decisao/media.py" />
@@ -151,23 +196,25 @@
         <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio02.py" />
         <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio03.py" />
         <option value="$PROJECT_DIR$/05.jogo_do_nim/funcoes.py" />
-        <option value="$PROJECT_DIR$/testes.py" />
         <option value="$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py" />
+        <option value="$PROJECT_DIR$/remove_repetidos.py" />
+        <option value="$PROJECT_DIR$/07.listas/soma_elementos.py" />
+        <option value="$PROJECT_DIR$/07.listas/maior_elemento.py" />
+        <option value="$PROJECT_DIR$/07.listas/inverte.py" />
+        <option value="$PROJECT_DIR$/07.listas/teste.py" />
+        <option value="$PROJECT_DIR$/testes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1044" />
-    <option name="y" value="99" />
-    <option name="width" value="1346" />
-    <option name="height" value="553" />
+    <option name="width" value="1024" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,17 +225,13 @@
             <path>
               <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="05.jogo_do_nim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="06.jogos" type="462c0819:PsiDirectoryNode" />
+              <item name="07.listas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,15 +243,16 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07.listas" />
+      <recent name="$PROJECT_DIR$/06.jogos" />
+      <recent name="$PROJECT_DIR$/05.jogo_do_nim" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/00.listas_de_exercicios" />
       <recent name="$PROJECT_DIR$/03.repeticao" />
       <recent name="$PROJECT_DIR$/04.funcoes" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/06.jogos" />
-      <recent name="$PROJECT_DIR$/05.jogo_do_nim" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.jogo_do_nim">
+  <component name="RunManager" selected="Python.testes">
     <configuration name="jogo_de_dado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,28 +312,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lista06_exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.listas_de_exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lista06_exercicio03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,6 +326,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maior_elemento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.listas/maior_elemento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jogo_do_nim" />
         <item itemvalue="Python.testes" />
+        <item itemvalue="Python.maior_elemento" />
+        <item itemvalue="Python.jogo_do_nim" />
         <item itemvalue="Python.jogo_de_dado" />
         <item itemvalue="Python.lista06_exercicio03" />
-        <item itemvalue="Python.lista06_exercicio02" />
       </list>
     </recent_temporary>
   </component>
@@ -362,24 +406,31 @@
       <workItem from="1553743059857" duration="3297000" />
       <workItem from="1553821662629" duration="1324000" />
       <workItem from="1553882851695" duration="624000" />
-      <workItem from="1553898726623" duration="1974000" />
+      <workItem from="1553898726623" duration="2804000" />
+      <workItem from="1554225074134" duration="5344000" />
+      <workItem from="1554248256181" duration="2400000" />
+      <workItem from="1554255963882" duration="143000" />
+      <workItem from="1554256130586" duration="5000" />
+      <workItem from="1554409318539" duration="6513000" />
+      <workItem from="1554484477916" duration="4155000" />
+      <workItem from="1554501775404" duration="4594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27805000" />
+    <option name="totallyTimeSpent" value="51789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1024" height="768" extended-state="6" />
+    <frame x="0" y="0" width="1024" height="725" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22188139" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23108384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32436708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48734176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47468355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -398,13 +449,13 @@
       <window_info anchor="right" id="R Packages" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22188139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23108384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27056962" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48734176" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47468355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,31 +494,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python2019$jogo_de_dado.coverage" NAME="jogo_de_dado Coverage Results" MODIFIED="1553898755212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.jogos" />
-    <SUITE FILE_PATH="coverage/python2019$jogo_do_nim.coverage" NAME="jogo_do_nim Coverage Results" MODIFIED="1553900662811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.jogo_do_nim" />
-    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1553899537913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$maior_elemento.coverage" NAME="maior_elemento Coverage Results" MODIFIED="1554488541270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.listas" />
+    <SUITE FILE_PATH="coverage/python2019$jogo_do_nim.coverage" NAME="jogo_do_nim Coverage Results" MODIFIED="1554229381338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.jogo_do_nim" />
+    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1554506088567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.sequencial/ola_mundo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.sequencial/seu_nome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.sequencial/media.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.sequencial/area_circulo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -725,26 +756,71 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.jogo_do_nim/funcoes.py" />
+    <entry file="file://$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06.jogos/pedra_papel_tesoura.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.jogos/jogo_de_dado.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/06.jogos/imc.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/testes.py">
+    <entry file="file://$PROJECT_DIR$/07.listas/remove_repetidos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="144">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.jogos/jogo_de_dado.py">
+    <entry file="file://$PROJECT_DIR$/07.listas/maior_elemento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.listas/soma_elementos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.listas/inverte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.listas/teste.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="11" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="46" selection-end-column="11" />
+        <state relative-caret-position="101">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>

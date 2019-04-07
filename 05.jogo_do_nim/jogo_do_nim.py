@@ -1,3 +1,5 @@
+import random
+
 # Pede ao usuário o número de peças que ele quer retirar e retorna este número de peças
 def usuario_escolhe_jogada(n, m):
     while True:
@@ -37,14 +39,24 @@ def partida():
 
     # Testa quem vai começar
     if n % (m + 1) == 0:
-        # Se n é múltiplo de m+1, a vez é do jogador
-        print('Você começa!')
-        vez = 'usuario'
+       # Se n é múltiplo de m+1, a vez é do jogador
+       print('Você começa!')
+       vez = 'usuario'
     else:
-        # Se n não é múltiplo de m+1, a vez é do computador
-        print('O computador começa!')
-        vez = 'computador'
+       # Se n não é múltiplo de m+1, a vez é do computador
+       print('O computador começa!')
+       vez = 'computador'
     print()
+
+    # gera um número aleatório para decidir quem começa a partida
+    # i = random.randint(1,2)
+    # if i == 1:
+    # print('O computador começa!')
+    #     vez = 'computador'
+    # else:
+    #     print('Você começa!')
+    #     vez = 'usuario'
+    # print()
 
     # Enquanto n (número de peças no tabuleiro) for maior que zero, continua jogando
     while n > 0:
