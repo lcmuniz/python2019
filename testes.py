@@ -1,18 +1,10 @@
 import random
+import math
 
-numeros = []
+x = random.randrange(1,100)
+y = math.cos(1)
+z = math.sqrt(100)
 
-for i in range(11):
-    n = random.randint(1, 101)
-    numeros.append(n)
-
-maior = max(numeros)
-menor = min(numeros)
-
-ordenada = numeros.copy()
-ordenada.sort()
-
-print("Na lista {}, ".format(numeros))
-print("o menor número é {} e".format(menor))
-print("o maior número é {}.".format(maior))
-print("A lista ordenada é {}.".format(ordenada))
+print(x)
+print(y)
+print(z)
