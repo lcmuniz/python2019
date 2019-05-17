@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="877593d4-9aa2-4cc2-a8fb-9e1a6ae677b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08.matrizes/dimensoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08.matrizes/imprimir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08.matrizes/multiplicavies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08.matrizes/soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/areas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/basico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/cedulas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/consumo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/diferenca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/esfera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/gasto_combustivel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/media1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/media2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/produto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/salario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.exercicios/salario_bonus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coah_piah.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valida.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
@@ -72,29 +58,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/produto.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="184">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/diferenca.py">
+        <entry file="file://$PROJECT_DIR$/teste2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="462">
+              <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/salario.py">
+        <entry file="file://$PROJECT_DIR$/valida.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="18" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="176">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -120,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.exercicios/areas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="352">
               <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
             </state>
           </provider>
@@ -144,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.exercicios/cedulas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="616">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -157,7 +143,7 @@
         <entry file="file://$PROJECT_DIR$/10.exercicios/basico.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="9" lean-forward="true" selection-end-line="5" selection-end-column="15" />
+              <caret line="3" column="9" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -182,10 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista05_exercicio04.py" />
-        <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista05_exercicio05.py" />
-        <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio01.py" />
-        <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio02.py" />
         <option value="$PROJECT_DIR$/00.listas_de_exercicios/lista06_exercicio03.py" />
         <option value="$PROJECT_DIR$/05.jogo_do_nim/funcoes.py" />
         <option value="$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py" />
@@ -197,7 +179,6 @@
         <option value="$PROJECT_DIR$/07.listas/inverte.py" />
         <option value="$PROJECT_DIR$/07.listas/temperaturas.py" />
         <option value="$PROJECT_DIR$/coah_piah.py" />
-        <option value="$PROJECT_DIR$/teste2.py" />
         <option value="$PROJECT_DIR$/teste3.py" />
         <option value="$PROJECT_DIR$/dimensoes_matriz.py" />
         <option value="$PROJECT_DIR$/matriz_mult.py" />
@@ -212,7 +193,6 @@
         <option value="$PROJECT_DIR$/conta_letras.py" />
         <option value="$PROJECT_DIR$/primeiro_lex.py" />
         <option value="$PROJECT_DIR$/minha_app/testes.py" />
-        <option value="$PROJECT_DIR$/testes.py" />
         <option value="$PROJECT_DIR$/minha_app/alunos.py" />
         <option value="$PROJECT_DIR$/minha_app/meu_app2.py" />
         <option value="$PROJECT_DIR$/minha_app/matematica.py" />
@@ -233,21 +213,25 @@
         <option value="$PROJECT_DIR$/10.exercicios/consumo.py" />
         <option value="$PROJECT_DIR$/10.exercicios/gasto_combustivel.py" />
         <option value="$PROJECT_DIR$/10.exercicios/cedulas.py" />
+        <option value="$PROJECT_DIR$/valida.py" />
+        <option value="$PROJECT_DIR$/datas.py" />
+        <option value="$PROJECT_DIR$/palindromos.py" />
+        <option value="$PROJECT_DIR$/testes2.py" />
+        <option value="$PROJECT_DIR$/teste2.py" />
+        <option value="$PROJECT_DIR$/testes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="90" />
-    <option name="width" value="1026" />
-    <option name="height" value="545" />
+    <option name="y" value="-1" />
+    <option name="width" value="1366" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,12 +242,13 @@
             <path>
               <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="10.exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="04.funcoes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,29 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cedulas">
-    <configuration name="areas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.exercicios/areas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.testes">
     <configuration name="cedulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -369,28 +332,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="esfera" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.exercicios/esfera.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="gasto_combustivel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -413,13 +354,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testes" />
+        <item itemvalue="Python.teste2" />
         <item itemvalue="Python.cedulas" />
         <item itemvalue="Python.gasto_combustivel" />
         <item itemvalue="Python.consumo" />
-        <item itemvalue="Python.areas" />
-        <item itemvalue="Python.esfera" />
       </list>
     </recent_temporary>
   </component>
@@ -463,24 +448,35 @@
       <workItem from="1556844477545" duration="3484000" />
       <workItem from="1556909991539" duration="4124000" />
       <workItem from="1556921000964" duration="3924000" />
-      <workItem from="1556937739559" duration="2237000" />
+      <workItem from="1556937739559" duration="2648000" />
+      <workItem from="1557100576824" duration="2441000" />
+      <workItem from="1557272025168" duration="2620000" />
+      <workItem from="1557499814957" duration="110000" />
+      <workItem from="1557515122841" duration="3657000" />
+      <workItem from="1557525675091" duration="1649000" />
+      <workItem from="1557528039628" duration="3107000" />
+      <workItem from="1557853934693" duration="4614000" />
+      <workItem from="1557876986825" duration="2303000" />
+      <workItem from="1558065811435" duration="1635000" />
+      <workItem from="1558067476713" duration="355000" />
+      <workItem from="1558119289923" duration="4362000" />
+      <workItem from="1558126086148" duration="269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101250000" />
+    <option name="totallyTimeSpent" value="128783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="725" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18560606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39558575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5063291" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42105263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6043277" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -499,13 +495,13 @@
       <window_info anchor="right" id="R Packages" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23006135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24692623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3971519" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5063291" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39412674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6043277" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -539,6 +535,11 @@
           <url>file://$PROJECT_DIR$/06.jogos/jogo_de_dado.py</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teste2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -546,10 +547,11 @@
     <SUITE FILE_PATH="coverage/python2019$jogo_de_dado.coverage" NAME="jogo_de_dado Coverage Results" MODIFIED="1553898755212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.jogos" />
     <SUITE FILE_PATH="coverage/python2019$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1556845639389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.modulos" />
     <SUITE FILE_PATH="coverage/python2019$soma.coverage" NAME="soma Coverage Results" MODIFIED="1556845086565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
-    <SUITE FILE_PATH="coverage/python2019$cedulas.coverage" NAME="cedulas Coverage Results" MODIFIED="1556940203261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$cedulas.coverage" NAME="cedulas Coverage Results" MODIFIED="1557100755242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
     <SUITE FILE_PATH="coverage/python2019$salario.coverage" NAME="salario Coverage Results" MODIFIED="1556938884700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
     <SUITE FILE_PATH="coverage/python2019$diferenca.coverage" NAME="diferenca Coverage Results" MODIFIED="1556938646724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1556911774018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$teste2.coverage" NAME="teste2 Coverage Results" MODIFIED="1558126343351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1558126499409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2019$teste3.coverage" NAME="teste3 Coverage Results" MODIFIED="1556318486036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2019$gasto_combustivel.coverage" NAME="gasto_combustivel Coverage Results" MODIFIED="1556939907976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
     <SUITE FILE_PATH="coverage/python2019$testes__1_.coverage" NAME="testes (1) Coverage Results" MODIFIED="1556912988391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
@@ -577,29 +579,6 @@
     <SUITE FILE_PATH="coverage/python2019$calcular_fib.coverage" NAME="calcular_fib Coverage Results" MODIFIED="1556911376042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.modulos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06.jogos/pedra_papel_tesoura.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.jogos/imc.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971763/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.jogos/jogo_de_dado.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/lib/python3.6/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="775" selection-start-line="775" selection-end-line="775" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste2.py" />
-    <entry file="file://$PROJECT_DIR$/teste3.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -635,20 +614,8 @@
     <entry file="file://$PROJECT_DIR$/imprime_matriz.py" />
     <entry file="file://$PROJECT_DIR$/matriz_mult.py" />
     <entry file="file://$PROJECT_DIR$/soma_matriz.py" />
-    <entry file="file://$PROJECT_DIR$/menor_nome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/primeiro_lex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/menor_nome.py" />
+    <entry file="file://$PROJECT_DIR$/primeiro_lex.py" />
     <entry file="file://$PROJECT_DIR$/09.modulos/__init__.py" />
     <entry file="file://$PROJECT_DIR$/minha_app/testes.py" />
     <entry file="file://$PROJECT_DIR$/08.matrizes/dimensoes.py">
@@ -658,13 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conta_char.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/conta_char.py" />
     <entry file="file://$PROJECT_DIR$/08.matrizes/imprimir.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -680,16 +641,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/minha_app/alunos.py" />
-    <entry file="file://$PROJECT_DIR$/testes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08.matrizes/soma.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -718,20 +669,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/calcular_fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/fibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/09.modulos/calcular_fib.py" />
+    <entry file="file://$PROJECT_DIR$/09.modulos/fibo.py" />
     <entry file="file://$PROJECT_DIR$/09.modulos/geometria.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -760,13 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maiusculas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/maiusculas.py" />
     <entry file="file://$PROJECT_DIR$/09.modulos/meu_app2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-137">
@@ -819,6 +752,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindromos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes2" />
+    <entry file="file://$PROJECT_DIR$/testes2.py" />
+    <entry file="file://$PROJECT_DIR$/valida.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10.exercicios/salario_bonus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -835,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.exercicios/areas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="352">
           <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
@@ -844,13 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/basico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" lean-forward="true" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -863,8 +819,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10.exercicios/cedulas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="616">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.exercicios/basico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
