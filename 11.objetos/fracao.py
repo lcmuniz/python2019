@@ -1,4 +1,5 @@
-def gcd(m,n):
+# calcular o maximo divisor comum entre m e n
+def mdc(m, n):
     while m%n != 0:
         oldm = m
         oldn = n
@@ -29,7 +30,7 @@ class Fracao:
         d = f1.den * f2.den
         n = (d / f1.den * f1.num) + (d / f2.den * f2.num)
 
-        divisor = gcd(n, d)
+        divisor = mdc(n, d)
         return Fracao(n // divisor, d // divisor)
 
     # método utilizado pelo operador - para subtrair dois objetos da classe Fracao
@@ -37,7 +38,7 @@ class Fracao:
     def __sub__(f1, f2):
         d = f1.den * f2.den
         n = (d / f1.den * f1.num) - (d / f2.den * f2.num)
-        divisor = gcd(n, d)
+        divisor = mdc(n, d)
         return Fracao(n // divisor, d // divisor)
 
     # método utilizado pelo operador * para multiplicar dois objetos da classe Fracao
@@ -45,7 +46,7 @@ class Fracao:
     def __mul__(f1, f2):
         d = f1.den * f2.den
         n = f1.num * f2.num
-        divisor = gcd(n, d)
+        divisor = mdc(n, d)
         return Fracao(n // divisor, d // divisor)
 
 
@@ -54,7 +55,7 @@ class Fracao:
     def __truediv__(f1, f2):
         d = f1.num * f2.den
         n = f1.den * f2.num
-        divisor = gcd(n, d)
+        divisor = mdc(n, d)
         return Fracao(n // divisor, d // divisor)
 
 
