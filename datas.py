@@ -3,6 +3,8 @@ def data_por_extenso(data):
     mes = int(data[3:5])
     ano = int(data[6:])
 
+    print('ajsdlas')
+    
     meses = ['janeiro', 'fevereiro', 'março', 'abril',
              'maio', 'junho', 'julho', 'agosto', 'setembro',
              'outubro', 'novembro', 'dezembro']

@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="877593d4-9aa2-4cc2-a8fb-9e1a6ae677b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/11.objetos/fracao.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.objetos/fracao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lcmuniz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.modulos/matematica.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.modulos/matematica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas.py" beforeDir="false" afterPath="$PROJECT_DIR$/datas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,99 +59,19 @@
     <SUITE FILE_PATH="coverage/python2019$soma_digitos.coverage" NAME="soma_digitos Coverage Results" MODIFIED="1553385151579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03.repeticao" />
     <SUITE FILE_PATH="coverage/python2019$lista04_exercicio02.coverage" NAME="lista04_exercicio02 Coverage Results" MODIFIED="1553388496072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.listas_de_exercicios" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11.objetos/fracao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1430">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palindromos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valida.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/salario_bonus.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/esfera.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/areas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/consumo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/gasto_combustivel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/cedulas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.exercicios/basico.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="9" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,97 +83,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>,</find>
+      <find>angle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/05.jogo_do_nim/funcoes.py" />
-        <option value="$PROJECT_DIR$/05.jogo_do_nim/jogo_do_nim.py" />
-        <option value="$PROJECT_DIR$/remove_repetidos.py" />
-        <option value="$PROJECT_DIR$/07.listas/teste.py" />
-        <option value="$PROJECT_DIR$/07.listas/soma_elementos.py" />
-        <option value="$PROJECT_DIR$/07.listas/maior_elemento.py" />
-        <option value="$PROJECT_DIR$/07.listas/remove_repetidos.py" />
-        <option value="$PROJECT_DIR$/07.listas/inverte.py" />
-        <option value="$PROJECT_DIR$/07.listas/temperaturas.py" />
-        <option value="$PROJECT_DIR$/coah_piah.py" />
-        <option value="$PROJECT_DIR$/teste3.py" />
-        <option value="$PROJECT_DIR$/dimensoes_matriz.py" />
-        <option value="$PROJECT_DIR$/matriz_mult.py" />
-        <option value="$PROJECT_DIR$/08.matrizes/dimensoes.py" />
-        <option value="$PROJECT_DIR$/08.matrizes/soma.py" />
-        <option value="$PROJECT_DIR$/08.matrizes/imprimir.py" />
-        <option value="$PROJECT_DIR$/08.matrizes/multiplicavies.py" />
-        <option value="$PROJECT_DIR$/09.modulos/fibo.py" />
-        <option value="$PROJECT_DIR$/09.modulos/calcular_fib.py" />
-        <option value="$PROJECT_DIR$/maiusculas.py" />
-        <option value="$PROJECT_DIR$/menor_nome.py" />
-        <option value="$PROJECT_DIR$/conta_letras.py" />
-        <option value="$PROJECT_DIR$/primeiro_lex.py" />
-        <option value="$PROJECT_DIR$/minha_app/testes.py" />
-        <option value="$PROJECT_DIR$/minha_app/alunos.py" />
-        <option value="$PROJECT_DIR$/minha_app/meu_app2.py" />
-        <option value="$PROJECT_DIR$/minha_app/matematica.py" />
-        <option value="$PROJECT_DIR$/minha_app/strings.py" />
-        <option value="$PROJECT_DIR$/minha_app/geometria.py" />
-        <option value="$PROJECT_DIR$/minha_app/meu_app.py" />
-        <option value="$PROJECT_DIR$/09.modulos/meu_app1.py" />
-        <option value="$PROJECT_DIR$/09.modulos/meu_app2.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/basico.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/produto.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/media1.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/media2.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/diferenca.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/salario.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/salario_bonus.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/esfera.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/areas.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/consumo.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/gasto_combustivel.py" />
-        <option value="$PROJECT_DIR$/10.exercicios/cedulas.py" />
-        <option value="$PROJECT_DIR$/valida.py" />
-        <option value="$PROJECT_DIR$/datas.py" />
-        <option value="$PROJECT_DIR$/palindromos.py" />
-        <option value="$PROJECT_DIR$/testes2.py" />
-        <option value="$PROJECT_DIR$/teste2.py" />
-        <option value="$PROJECT_DIR$/testes.py" />
-        <option value="$PROJECT_DIR$/11.objetos/fracao.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1" />
-    <option name="width" value="1366" />
-    <option name="height" value="727" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="11.objetos" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1OcBUfMHGeRivhLlUHRW93c1O63" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -253,7 +97,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -282,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fracao">
+  <component name="RunManager" selected="Python.testes">
     <configuration name="cedulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gasto_combustivel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mostra" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,12 +179,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.exercicios/gasto_combustivel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mostra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fracao" />
         <item itemvalue="Python.testes" />
+        <item itemvalue="Python.mostra" />
+        <item itemvalue="Python.fracao" />
         <item itemvalue="Python.teste2" />
         <item itemvalue="Python.cedulas" />
-        <item itemvalue="Python.gasto_combustivel" />
       </list>
     </recent_temporary>
   </component>
@@ -455,68 +299,55 @@
       <workItem from="1558065811435" duration="1635000" />
       <workItem from="1558067476713" duration="355000" />
       <workItem from="1558119289923" duration="4362000" />
-      <workItem from="1558126086148" duration="606000" />
+      <workItem from="1558126086148" duration="1206000" />
+      <workItem from="1558129968490" duration="5267000" />
+      <workItem from="1558393877986" duration="5700000" />
+      <workItem from="1558458452192" duration="4428000" />
+      <workItem from="1558469690105" duration="22000" />
+      <workItem from="1558482020678" duration="3033000" />
+      <workItem from="1558977846511" duration="2693000" />
+      <workItem from="1559064188943" duration="3768000" />
+      <workItem from="1559086627619" duration="2892000" />
+      <workItem from="1559596919715" duration="623000" />
+      <workItem from="1559599520353" duration="3707000" />
+      <workItem from="1559671171664" duration="2470000" />
+      <workItem from="1559681912660" duration="24000" />
+      <workItem from="1559935384226" duration="5181000" />
+      <workItem from="1560195266173" duration="1807000" />
+      <workItem from="1561042367691" duration="1245000" />
+      <workItem from="1561126269654" duration="4000" />
+      <workItem from="1561685569152" duration="1807000" />
+      <workItem from="1564267035497" duration="2000" />
+      <workItem from="1564487759319" duration="1000" />
+      <workItem from="1565374975359" duration="3000" />
+      <workItem from="1568078599763" duration="1301000" />
+      <workItem from="1568083245472" duration="71000" />
+      <workItem from="1568431052801" duration="951000" />
+      <workItem from="1569890601795" duration="62000" />
+      <workItem from="1570048559499" duration="272000" />
+      <workItem from="1570050460404" duration="949000" />
+      <workItem from="1570130767549" duration="9000" />
+      <workItem from="1570135472591" duration="1642000" />
+      <workItem from="1570481037472" duration="2561000" />
+      <workItem from="1570567542959" duration="1073000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129120000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="725" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18560606" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42105263" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6043277" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5996835" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24692623" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39412674" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6043277" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5996835" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -530,311 +361,49 @@
           <url>file://$PROJECT_DIR$/06.jogos/jogo_de_dado.py</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testes.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python2019$jogo_de_dado.coverage" NAME="jogo_de_dado Coverage Results" MODIFIED="1553898755212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.jogos" />
+    <SUITE FILE_PATH="coverage/python2019$fracao.coverage" NAME="fracao Coverage Results" MODIFIED="1558126683119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.objetos" />
     <SUITE FILE_PATH="coverage/python2019$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1556845639389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.modulos" />
     <SUITE FILE_PATH="coverage/python2019$soma.coverage" NAME="soma Coverage Results" MODIFIED="1556845086565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
-    <SUITE FILE_PATH="coverage/python2019$cedulas.coverage" NAME="cedulas Coverage Results" MODIFIED="1557100755242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$salario.coverage" NAME="salario Coverage Results" MODIFIED="1556938884700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$diferenca.coverage" NAME="diferenca Coverage Results" MODIFIED="1556938646724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$teste2.coverage" NAME="teste2 Coverage Results" MODIFIED="1558126343351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1558126676153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$teste3.coverage" NAME="teste3 Coverage Results" MODIFIED="1556318486036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$gasto_combustivel.coverage" NAME="gasto_combustivel Coverage Results" MODIFIED="1556939907976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$testes__1_.coverage" NAME="testes (1) Coverage Results" MODIFIED="1556912988391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
-    <SUITE FILE_PATH="coverage/python2019$meu_app2.coverage" NAME="meu_app2 Coverage Results" MODIFIED="1556922451711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
-    <SUITE FILE_PATH="coverage/python2019$areas.coverage" NAME="areas Coverage Results" MODIFIED="1556939559450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$fracao.coverage" NAME="fracao Coverage Results" MODIFIED="1558126683119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.objetos" />
-    <SUITE FILE_PATH="coverage/python2019$maior_elemento.coverage" NAME="maior_elemento Coverage Results" MODIFIED="1554488541270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.listas" />
-    <SUITE FILE_PATH="coverage/python2019$media2.coverage" NAME="media2 Coverage Results" MODIFIED="1556938543043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$multiplicavies.coverage" NAME="multiplicavies Coverage Results" MODIFIED="1556845281351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
-    <SUITE FILE_PATH="coverage/python2019$menor_nome.coverage" NAME="menor_nome Coverage Results" MODIFIED="1556846620851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$basico.coverage" NAME="basico Coverage Results" MODIFIED="1556938266888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$jogo_do_nim.coverage" NAME="jogo_do_nim Coverage Results" MODIFIED="1554229381338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.jogo_do_nim" />
-    <SUITE FILE_PATH="coverage/python2019$dimensoes.coverage" NAME="dimensoes Coverage Results" MODIFIED="1556844968373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
-    <SUITE FILE_PATH="coverage/python2019$maiusculas.coverage" NAME="maiusculas Coverage Results" MODIFIED="1556846442523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$primeiro_lex.coverage" NAME="primeiro_lex Coverage Results" MODIFIED="1556847086820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$media1.coverage" NAME="media1 Coverage Results" MODIFIED="1556938354895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$temperaturas.coverage" NAME="temperaturas Coverage Results" MODIFIED="1554603489714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.listas" />
     <SUITE FILE_PATH="coverage/python2019$consumo.coverage" NAME="consumo Coverage Results" MODIFIED="1556939726215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
-    <SUITE FILE_PATH="coverage/python2019$conta_letras.coverage" NAME="conta_letras Coverage Results" MODIFIED="1556846986576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$testes__2_.coverage" NAME="testes (2) Coverage Results" MODIFIED="1556921202019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python2019$esfera.coverage" NAME="esfera Coverage Results" MODIFIED="1556939302925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$diferenca.coverage" NAME="diferenca Coverage Results" MODIFIED="1556938646724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$areas.coverage" NAME="areas Coverage Results" MODIFIED="1556939559450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$jogo_do_nim.coverage" NAME="jogo_do_nim Coverage Results" MODIFIED="1554229381338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.jogo_do_nim" />
     <SUITE FILE_PATH="coverage/python2019$meu_app.coverage" NAME="meu_app Coverage Results" MODIFIED="1556924853147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
-    <SUITE FILE_PATH="coverage/python2019$salario_bonus.coverage" NAME="salario_bonus Coverage Results" MODIFIED="1556939113741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$mostra.coverage" NAME="mostra Coverage Results" MODIFIED="1559596990810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$basico.coverage" NAME="basico Coverage Results" MODIFIED="1556938266888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$teste3.coverage" NAME="teste3 Coverage Results" MODIFIED="1556318486036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$multiplicavies.coverage" NAME="multiplicavies Coverage Results" MODIFIED="1556845281351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
+    <SUITE FILE_PATH="coverage/python2019$dimensoes.coverage" NAME="dimensoes Coverage Results" MODIFIED="1556844968373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
+    <SUITE FILE_PATH="coverage/python2019$media2.coverage" NAME="media2 Coverage Results" MODIFIED="1556938543043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$testes__2_.coverage" NAME="testes (2) Coverage Results" MODIFIED="1556921202019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$menor_nome.coverage" NAME="menor_nome Coverage Results" MODIFIED="1556846620851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2019$meu_app1.coverage" NAME="meu_app1 Coverage Results" MODIFIED="1556937979788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.modulos" />
     <SUITE FILE_PATH="coverage/python2019$imprimir.coverage" NAME="imprimir Coverage Results" MODIFIED="1556845127694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08.matrizes" />
+    <SUITE FILE_PATH="coverage/python2019$salario.coverage" NAME="salario Coverage Results" MODIFIED="1556938884700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$cedulas.coverage" NAME="cedulas Coverage Results" MODIFIED="1557100755242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$esfera.coverage" NAME="esfera Coverage Results" MODIFIED="1556939302925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
     <SUITE FILE_PATH="coverage/python2019$calcular_fib.coverage" NAME="calcular_fib Coverage Results" MODIFIED="1556911376042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.modulos" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24948">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.listas/inverte.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.listas/temperaturas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08.matrizes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dimensoes_matriz.py" />
-    <entry file="file://$PROJECT_DIR$/imprime_matriz.py" />
-    <entry file="file://$PROJECT_DIR$/matriz_mult.py" />
-    <entry file="file://$PROJECT_DIR$/soma_matriz.py" />
-    <entry file="file://$PROJECT_DIR$/menor_nome.py" />
-    <entry file="file://$PROJECT_DIR$/primeiro_lex.py" />
-    <entry file="file://$PROJECT_DIR$/09.modulos/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/minha_app/testes.py" />
-    <entry file="file://$PROJECT_DIR$/08.matrizes/dimensoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conta_char.py" />
-    <entry file="file://$PROJECT_DIR$/08.matrizes/imprimir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08.matrizes/multiplicavies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minha_app/alunos.py" />
-    <entry file="file://$PROJECT_DIR$/08.matrizes/soma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.listas/maior_elemento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53" selection-start-column="53" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.listas/remove_repetidos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.listas/soma_elementos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" selection-start-column="45" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/calcular_fib.py" />
-    <entry file="file://$PROJECT_DIR$/09.modulos/fibo.py" />
-    <entry file="file://$PROJECT_DIR$/09.modulos/geometria.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/matematica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09.modulos/meu_app1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maiusculas.py" />
-    <entry file="file://$PROJECT_DIR$/09.modulos/meu_app2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-137">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coah_piah.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2046">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/media1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/media2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/produto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/diferenca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/salario.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testes2" />
-    <entry file="file://$PROJECT_DIR$/testes2.py" />
-    <entry file="file://$PROJECT_DIR$/10.exercicios/salario_bonus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/esfera.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/areas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/consumo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/gasto_combustivel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/cedulas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.exercicios/basico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/palindromos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valida.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.objetos/fracao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1430">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/python2019$conta_letras.coverage" NAME="conta_letras Coverage Results" MODIFIED="1556846986576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$maior_elemento.coverage" NAME="maior_elemento Coverage Results" MODIFIED="1554488541270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.listas" />
+    <SUITE FILE_PATH="coverage/python2019$maiusculas.coverage" NAME="maiusculas Coverage Results" MODIFIED="1556846442523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$jogo_de_dado.coverage" NAME="jogo_de_dado Coverage Results" MODIFIED="1553898755212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06.jogos" />
+    <SUITE FILE_PATH="coverage/python2019$teste2.coverage" NAME="teste2 Coverage Results" MODIFIED="1558126343351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$meu_app2.coverage" NAME="meu_app2 Coverage Results" MODIFIED="1556922451711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
+    <SUITE FILE_PATH="coverage/python2019$salario_bonus.coverage" NAME="salario_bonus Coverage Results" MODIFIED="1556939113741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$media1.coverage" NAME="media1 Coverage Results" MODIFIED="1556938354895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$testes.coverage" NAME="testes Coverage Results" MODIFIED="1570568472160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$gasto_combustivel.coverage" NAME="gasto_combustivel Coverage Results" MODIFIED="1556939907976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.exercicios" />
+    <SUITE FILE_PATH="coverage/python2019$temperaturas.coverage" NAME="temperaturas Coverage Results" MODIFIED="1554603489714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07.listas" />
+    <SUITE FILE_PATH="coverage/python2019$primeiro_lex.coverage" NAME="primeiro_lex Coverage Results" MODIFIED="1556847086820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2019$testes__1_.coverage" NAME="testes (1) Coverage Results" MODIFIED="1556912988391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minha_app" />
   </component>
 </project>

@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/09.modulos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09.modulos/minha_app" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (python2019)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="library" name="R Skeletons" level="application" />
